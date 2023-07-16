@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>936027380239-pe8o56a0v0od8nbr3gcpihhhs3un6hjb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.936027380239-pe8o56a0v0od8nbr3gcpihhhs3un6hjb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2hfZGPtNu1aVvkcn1uia4X4cifwBztz0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936027380239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vibho.mynote.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>yoyo-f1cfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yoyo-f1cfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936027380239:ios:c2d7bb6a2f694c33eca17a</string>
+	<key>DATABASE_URL</key>
+	<string>https://yoyo-f1cfe.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84806354543",
+    "project_id": "my-n-n",
+    "storage_bucket": "my-n-n.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84806354543:android:3011a2c65c79509bff2f9a",
+        "android_client_info": {
+          "package_name": "com.vibho.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84806354543-ahscuq1gaqp216iobg4e7de6o2t5ils6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnT9I-Cb_Z-iSkMs5doBbLt09iT-iE_uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84806354543-ahscuq1gaqp216iobg4e7de6o2t5ils6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
